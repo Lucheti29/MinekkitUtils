@@ -1,0 +1,7 @@
+/bin
+/build
+/.metadata
+*.rar
+.recommenders
+/.settings
+/target
